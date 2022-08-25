@@ -11,7 +11,6 @@ Audio card: Realtek ALC255 @ Intel Sunrise Point PCH
 
 Ethernet: Realtek RTL8168/8111
 
-
 Installation instruction:
 Bios setting:
 
@@ -24,3 +23,4 @@ Bios setting:
 CFG Unlock:
  Tool: cfglock.efi (Included in the EFI)
  setup_var 0xAF 0x0
+
