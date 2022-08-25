@@ -14,6 +14,7 @@ Ethernet: Realtek RTL8168/8111
 
 Installation instruction:
 Bios setting:
+
  Resert to default
  setting -> general -> Boot Sequence -> Boot List Option -> UEFI
  setting -> general -> Advanced Boot Options -> UNCHECK Enable legacy Option ROMS
